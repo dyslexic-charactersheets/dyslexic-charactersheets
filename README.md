@@ -1,2 +1,1 @@
-# dyslexic-charactersheets
-Dyslexic Character Sheets
+# Dyslexic Character Sheets
